@@ -10,7 +10,7 @@ Size of network and number of hidden nodes can be found in each folders' network
 2017-03-08-0033: EMG-sums and sum of difference  
 2017-03-09-1501: Wavelet transform level 3, MAV, RMS, WL  
 2017-03-10-0233: Wavelet transform level 3, MAV, RMS, WL  
-2017-03-13-0138: Wavelet transform level 1, MAV, RMS, WL  
+2017-03-20-1437 Wavelet transform level 1, MAV, RMS, WL  
 
 Info of Wavelet feature extraction methods  
 http://ieeexplore.ieee.org/abstract/document/7150944/  
