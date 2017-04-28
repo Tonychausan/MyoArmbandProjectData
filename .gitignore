@@ -1,2 +1,4 @@
 compressed_files/
 nn_data/emg_network/training_file.data
+raw_files/training_set
+raw_files/test_set
