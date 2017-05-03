@@ -1,5 +1,5 @@
 layer_sizes 24 50 50 10 
-Epoch_count 2180000
+Epoch_count 5000000
 layer_activation_functions Sigmoid Sigmoid Sigmoid 
 Wavelet_level 0
 Features 1 1 1 
