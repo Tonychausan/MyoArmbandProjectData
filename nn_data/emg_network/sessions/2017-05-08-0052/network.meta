@@ -1,0 +1,5 @@
+layer_sizes 144 150 150 10 
+Epoch_count 0
+layer_activation_functions Sigmoid Sigmoid Sigmoid 
+Wavelet_level 3
+Features 1 1 0 
