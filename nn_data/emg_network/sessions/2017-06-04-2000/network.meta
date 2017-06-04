@@ -1,0 +1,5 @@
+layer_sizes 40 10 10 
+Epoch_count 0
+layer_activation_functions ReLu ReLu 
+Wavelet_level 1
+Features 1 0 0 
