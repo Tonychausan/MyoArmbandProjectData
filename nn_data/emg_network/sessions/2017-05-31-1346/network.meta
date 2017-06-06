@@ -1,5 +1,0 @@
-layer_sizes 216 300 300 10 
-Epoch_count 1640000
-layer_activation_functions Softmax Softmax Softmax 
-Wavelet_level 3
-Features 1 1 1 

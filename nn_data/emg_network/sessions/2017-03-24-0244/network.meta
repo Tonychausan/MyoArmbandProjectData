@@ -1,5 +1,5 @@
 layer_sizes 120 150 150 10 
-Epoch_count 3995000
+Epoch_count 4030000
 layer_activation_functions ReLu ReLu Softmax 
 Wavelet_level 1
 Features 1 1 1 
